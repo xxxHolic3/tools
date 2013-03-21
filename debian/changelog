@@ -1,5 +1,5 @@
 automater (1.2-1kali1) kali; urgency=low
 
-  * Initial release (Closes: #	0000052)  <0000052 is the bug number of your ITP>
+  * Initial release (Closes BugID: #52)
 
  -- Jaime Filson <wik@kali.org>  Thu, 21 Mar 2013 16:27:18 -0400
