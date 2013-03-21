@@ -1,0 +1,15 @@
+Source: automater
+Section: net
+Priority: extra
+Maintainer: Jaime Filson <wik@kali.org>
+Build-Depends: debhelper (>= 8.0.0), python (>=2.6)
+Standards-Version: 3.9.3
+Homepage: http://www.tekdefense.com/
+Vcs-Git: ssh://git@git.kali.org/packages/automater.git
+Vcs-Browser: http://git.kali.org/gitweb/?p=packages/automater.git;a=summary
+
+Package: automater
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, python (>=2.6)
+Description: A IP and URL analysis tool.
+ Automater is a IP and URL analysis tool created to help automate the analysis process.
