@@ -1,3 +1,9 @@
+automater (2.1-0kali2) kali; urgency=low
+
+  * Changed the architecture to all vs any
+
+ -- Devon Kearns <dookie@kali.org>  Tue, 24 Jun 2014 12:24:17 -0600
+
 automater (2.1-0kali1) kali; urgency=low
 
   * Imported new upstream release (Closes: 0001417)
