@@ -1,3 +1,9 @@
+automater (2.1+git20150320-0kali0) kali; urgency=low
+
+  * Imported new upstream checkout
+
+ -- Devon Kearns <dookie@kali.org>  Fri, 20 Mar 2015 09:06:36 -0600
+
 automater (2.1-0kali2) kali; urgency=low
 
   * Changed the architecture to all vs any

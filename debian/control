@@ -1,7 +1,7 @@
 Source: automater
 Section: net
 Priority: extra
-Maintainer: Jaime Filson <wik@kali.org>
+Maintainer: Devon Kearns <dookie@kali.org>
 Build-Depends: debhelper (>= 8.0.0), python (>= 2.6)
 Standards-Version: 3.9.3
 Homepage: http://www.tekdefense.com/
