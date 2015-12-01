@@ -1,4 +1,4 @@
 debian/helper-script/* usr/bin/
 *.py usr/share/automater/
 docs usr/share/automater/
-sites.xml usr/share/automater/
+*.xml usr/share/automater/

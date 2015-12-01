@@ -1,6 +1,8 @@
 automater (2.1+git20151130-0kali1) kali-dev; urgency=medium
 
   * Import new upstream release
+  * Use debhelper 9
+  * Update debian/* files
 
  -- Sophie Brun <sophie@freexian.com>  Mon, 30 Nov 2015 16:07:34 +0100
 
